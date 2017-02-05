@@ -1,0 +1,63 @@
+{
+	"SublimeLinter":
+	{
+		"linters":
+		{
+			"clang":
+			{
+				"extra_flags": "-Wall -I${project_folder}/foo",
+				"include_dirs":
+				[
+					"${project_folder}/3rdparty/bar/include",
+					"${project_folder}/3rdparty/baz"
+				]
+			}
+		}
+	},
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_complete_selector": "source - comment",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "."
+		},
+		{
+			"characters": ">"
+		}
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"dictionary": "Packages/Language - French - Français/fr_FR (modern).dic",
+	"extensions":
+	[
+		"c",
+		"h"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"material_theme_accent_indigo": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bold_tab": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"theme": "Material-Theme.sublime-theme"
+}

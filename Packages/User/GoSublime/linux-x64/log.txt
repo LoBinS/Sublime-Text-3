@@ -1,0 +1,38 @@
+
+** 2017-01-12 12:25:25.140903 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r16.07.09-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2017-01-12 12:25:25.148539 **:
+MarGo: Missing required environment variables: GOROOT GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2017-01-12 12:26:07.533152 **:
+GsDoc: Abort. Cannot start MarGo: Exception: Cannot find command `/home/valentin/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r16.07.09-1_go?.exe`
+--------------------------------
+
+** 2017-01-15 00:23:19.131249 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r16.07.09-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2017-01-15 00:23:19.149942 **:
+MarGo: Missing required environment variables: GOROOT GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------

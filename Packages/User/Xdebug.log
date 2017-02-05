@@ -1,0 +1,5 @@
+[01/01/2017 08:29:41PM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[01/01/2017 08:29:41PM] INFO - Failed to open /home/valentin/.config/sublime-text-3/Packages/User/Xdebug.breakpoints.
+[01/01/2017 08:29:41PM] INFO - Failed to parse /home/valentin/.config/sublime-text-3/Packages/User/Xdebug.breakpoints.
+[01/01/2017 08:29:41PM] INFO - Failed to open /home/valentin/.config/sublime-text-3/Packages/User/Xdebug.expressions.
+[01/01/2017 08:29:41PM] INFO - Failed to parse /home/valentin/.config/sublime-text-3/Packages/User/Xdebug.expressions.

@@ -2,6 +2,12 @@
 
 ## Required
 
-Clang for C Linter
+#### C Language
 
-Java Development Kit for Java Linter and build with Javator
+>Clang for C Linter
+
+> mingw-w64 to compile C into Windows OS
+
+#### Java 
+
+> Java Development Kit for Java Linter and build with Javator
